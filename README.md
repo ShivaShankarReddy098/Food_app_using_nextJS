@@ -13,7 +13,7 @@ The **Food App** is a full-stack web application built using **Next.js** for the
   
 ## Tech Stack
 
-- **Frontend**: Next.js (React-based), Tailwind CSS for styling
+- **Frontend**: Next.js (React-based),  CSS for styling
 - **Backend**: Next.js API routes
 - **Database**: SQLite
 - **Version Control**: Git and GitHub for versioning

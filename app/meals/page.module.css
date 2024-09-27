@@ -1,0 +1,57 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  /* gap: 3rem; */
+  margin: 2rem auto;
+  /* width: 90%; */
+  max-width: 75rem;
+}
+.h1tag,
+.para {
+  color: white;
+}
+.highlight {
+  color: yellow;
+}
+
+/* .cta {
+  font-size: 1.5rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  gap: 1rem;
+  background-color: yellow;
+  width: 350px; */
+
+.cta {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  width: 25%;
+  background: linear-gradient(90deg, #3af21a, #5ff30a);
+  color: #2c2a2a;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.cta a:hover,
+.cta a:active {
+  background: linear-gradient(90deg, #4bf30e, #f9b241);
+}
+
+.cta a:first-child {
+  background: transparent;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: none;
+  font-weight: normal;
+  color: #111111;
+  padding-left: 0;
+}
+
+.cta a:first-child:hover,
+.cta a:first-child:active {
+  background: transparent;
+  color: #777470;
+}

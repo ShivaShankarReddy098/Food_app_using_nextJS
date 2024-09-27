@@ -18,8 +18,32 @@ The **Food App** is a full-stack web application built using **Next.js** for the
 - **Database**: SQLite
 - **Version Control**: Git and GitHub for versioning
 
+## Installation
 
-![Uploading Screenshot 2024-09-27 224727.png…]()
-![Uploading Screenshot 2024-09-27 224727.png…]()
-![Uploading Screenshot 2024-09-27 224759.png…]()
-![Uploading Screenshot 2024-09-27 224901.png…]()
+To set up the Criminal Management App locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ShivaShankarReddy098/Food_app_using_nextJS.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd foodApp
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your web browser and navigate to `http://localhost:3000` to access the application.

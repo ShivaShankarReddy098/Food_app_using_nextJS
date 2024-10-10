@@ -21,8 +21,8 @@ const dummyMeals = [
       4. Serve:
          Complete the assembly with the top bun and serve hot.
     `,
-    creator: "John Doe",
-    creator_email: "johndoe@example.com",
+    creator: "Shiva Shankar Reddy",
+    creator_email: "shiva@example.com",
   },
   {
     title: "Spicy Curry",

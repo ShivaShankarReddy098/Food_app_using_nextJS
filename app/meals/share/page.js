@@ -5,7 +5,7 @@ import { redirect } from "next/dist/server/api-utils";
 
 export default function ShareMealPage() {
   async function shareMeal(formData) {
-    "use server";
+    // "use server";
     const meal = {
       title: formData.get("title"),
       summary: formData.get("summary"),
